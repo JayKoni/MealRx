@@ -3182,6 +3182,48 @@
   },
   {
     "category": "Ingredient",
+    "name": "Fish, salmon, Atlantic, farm raised, raw",
+    "calories": 203.0,
+    "fat": 13.1,
+    "satFat": 2.3,
+    "transFat": 0.0,
+    "cholesterol": 62.1,
+    "sodium": 50.0,
+    "carbs": 0.0,
+    "sugar": 0.0,
+    "fiber": 0.0,
+    "potassium": 378.0,
+    "phosphorus": 230.0,
+    "protein": 20.3,
+    "tags": [
+      "protein"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {},
+    "servingSizes": [
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "85g (3oz)",
+        "grams": 85
+      },
+      {
+        "description": "113g (4oz)",
+        "grams": 113
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA Foundation ● Finfish and Shellfish Products",
+    "phosphateEstimated": 0,
+    "displayFactor": 100.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Ingredient",
     "name": "Fish, swordfish, raw",
     "calories": 144.0,
     "fat": 6.7,
@@ -6498,6 +6540,14 @@
         "grams": 100
       },
       {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
         "description": "1 cup",
         "grams": 166.0
       }
@@ -7018,6 +7068,114 @@
     "source": "USDA SR Legacy ● Baked Products",
     "phosphateEstimated": 0,
     "displayFactor": 174.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Serving",
+    "name": "Fish, swordfish, raw",
+    "calories": 144.0,
+    "fat": 6.7,
+    "satFat": 1.6,
+    "transFat": 0.0,
+    "cholesterol": 66.0,
+    "sodium": 81.0,
+    "carbs": 0.0,
+    "sugar": 0.0,
+    "fiber": 0.0,
+    "potassium": 418.0,
+    "phosphorus": 255.0,
+    "protein": 19.7,
+    "tags": [
+      "protein"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {},
+    "servingSizes": [
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "85g (3oz)",
+        "grams": 85
+      },
+      {
+        "description": "113g (4oz)",
+        "grams": 113
+      },
+      {
+        "description": "3 oz",
+        "grams": 85.0
+      },
+      {
+        "description": "1 piece (4-1/2\" x 2-1/8\" x 7/8\")",
+        "grams": 136.0
+      },
+      {
+        "description": "2 -pieces (4-1/2\" x 2-1/8\" x 7/8\")",
+        "grams": 272.0
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA SR Legacy ● Finfish and Shellfish Products",
+    "phosphateEstimated": 0,
+    "displayFactor": 91.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Serving",
+    "name": "Squash, summer, yellow, includes skin, raw",
+    "calories": 19.0,
+    "fat": 0.1,
+    "satFat": 0.0,
+    "transFat": 0.0,
+    "cholesterol": 0.0,
+    "sodium": 0.0,
+    "carbs": 4.4,
+    "sugar": 0.0,
+    "fiber": 1.0,
+    "potassium": 220.0,
+    "phosphorus": 31.0,
+    "protein": 0.9,
+    "tags": [
+      "vegetable"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {},
+    "servingSizes": [
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "75g (small serving)",
+        "grams": 75
+      },
+      {
+        "description": "150g (large serving)",
+        "grams": 150
+      },
+      {
+        "description": "3oz",
+        "grams": 85
+      },
+      {
+        "description": "4oz",
+        "grams": 113
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA Foundation ● Vegetables and Vegetable Products",
+    "phosphateEstimated": 0,
+    "displayFactor": 100.0,
     "selectedServing": null,
     "selectedServingGrams": null
   }
