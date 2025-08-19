@@ -1383,6 +1383,59 @@
   },
   {
     "category": "Branded",
+    "name": "MARKETSIDE: ASIAN STYLE GREEN CABBAGE, GREEN LEAF LETTUCE, KALE, RED CABBAGE, CARROTS, GREEN ONIONS, SLICED ALMONDS, WONTON STRIPS AND SESAME GINGER DRESSING CHOPPED SALAD KIT",
+    "calories": 160.0,
+    "fat": 11.0,
+    "satFat": 1.5,
+    "transFat": 0.0,
+    "cholesterol": 0.0,
+    "sodium": 330.0,
+    "carbs": 13.0,
+    "sugar": 7.0,
+    "fiber": 2.0,
+    "potassium": 220.0,
+    "phosphorus": 75.0,
+    "protein": 3.0,
+    "tags": [
+      "vegetable",
+      "vegan",
+      "dinner"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {
+      "sodium": 310.0,
+      "sugar": 6.0,
+      "potassium": 190.0,
+      "phosphorus": 0.0
+    },
+    "servingSizes": [
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "about 1 cup",
+        "grams": 100.0
+      },
+      {
+        "description": "Package",
+        "grams": 301.0
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA Branded ● Pre-Packaged Fruit & Vegetables",
+    "phosphateEstimated": 0,
+    "displayFactor": 200.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Branded",
     "name": "Nougat, Carlier carmel",
     "calories": 384.61538461538464,
     "fat": 9.615384615384615,
@@ -2763,6 +2816,53 @@
     "source": "USDA Foundation ● Poultry Products",
     "phosphateEstimated": 0,
     "displayFactor": 100.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Ingredient",
+    "name": "Chicken, thigh, boneless, skinless, raw",
+    "calories": 149.0,
+    "fat": 7.9,
+    "satFat": 1.7,
+    "transFat": 0.0,
+    "cholesterol": 91.7,
+    "sodium": 62.0,
+    "carbs": 0.0,
+    "sugar": 0.0,
+    "fiber": 0.0,
+    "potassium": 272.0,
+    "phosphorus": 178.0,
+    "protein": 18.6,
+    "tags": [
+      "protein",
+      "cooking ingredient"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {},
+    "servingSizes": [
+      {
+        "description": "85g (3oz)",
+        "grams": 85
+      },
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "85g (3oz)",
+        "grams": 85
+      },
+      {
+        "description": "113g (4oz)",
+        "grams": 113
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA Foundation ● Poultry Products",
+    "phosphateEstimated": 0,
+    "displayFactor": 85.0,
     "selectedServing": null,
     "selectedServingGrams": null
   },
@@ -4287,6 +4387,76 @@
     "source": "USDA Foundation ● Nut and Seed Products",
     "phosphateEstimated": 0,
     "displayFactor": 28.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Ingredient",
+    "name": "Oil, olive, extra light",
+    "calories": 0.0,
+    "fat": 92.9,
+    "satFat": 15.8,
+    "transFat": 0.1,
+    "cholesterol": 0.0,
+    "sodium": 0.0,
+    "carbs": 0.0,
+    "sugar": 0.0,
+    "fiber": 0.0,
+    "potassium": 0.0,
+    "phosphorus": 0.0,
+    "protein": 0.0,
+    "tags": [
+      "fats&oil",
+      "cooking ingredient"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {},
+    "servingSizes": [
+      {
+        "description": "1 tbsp (est.)",
+        "grams": 13.5,
+        "estimated": true
+      },
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "1 tsp (est.)",
+        "grams": 4.5,
+        "estimated": true
+      },
+      {
+        "description": "1 tbsp (est.)",
+        "grams": 13.5,
+        "estimated": true
+      },
+      {
+        "description": "1/4 cup (est.)",
+        "grams": 54.0,
+        "estimated": true
+      },
+      {
+        "description": "1/3 cup (est.)",
+        "grams": 72.0,
+        "estimated": true
+      },
+      {
+        "description": "1/2 cup (est.)",
+        "grams": 108.0,
+        "estimated": true
+      },
+      {
+        "description": "1 cup (est.)",
+        "grams": 216.0,
+        "estimated": true
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA Foundation ● Fats and Oils",
+    "phosphateEstimated": 0,
+    "displayFactor": 13.5,
     "selectedServing": null,
     "selectedServingGrams": null
   },
@@ -7073,6 +7243,53 @@
   },
   {
     "category": "Serving",
+    "name": "CHICKEN IN A BISKIT: ORIGINAL BAKED SNACK CRACKERS",
+    "calories": 516.0,
+    "fat": 25.8,
+    "satFat": 1.6,
+    "transFat": 0.0,
+    "cholesterol": 0.0,
+    "sodium": 742.0,
+    "carbs": 61.3,
+    "sugar": 6.5,
+    "fiber": 0.0,
+    "potassium": 65.0,
+    "phosphorus": 0.0,
+    "protein": 6.5,
+    "tags": [
+      "prepared food",
+      "snack"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {},
+    "servingSizes": [
+      {
+        "description": "12 crackers",
+        "grams": 31.0
+      },
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "12 crackers",
+        "grams": 31.0
+      },
+      {
+        "description": "Package",
+        "grams": 340.0
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA Branded ● Flavored Snack Crackers",
+    "phosphateEstimated": 0,
+    "displayFactor": 31.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Serving",
     "name": "Fish, swordfish, raw",
     "calories": 144.0,
     "fat": 6.7,
@@ -7126,6 +7343,64 @@
     "source": "USDA SR Legacy ● Finfish and Shellfish Products",
     "phosphateEstimated": 0,
     "displayFactor": 91.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Serving",
+    "name": "Pear, Anjou, green, with skin, raw",
+    "calories": 57.3,
+    "fat": 0.4,
+    "satFat": 0.0,
+    "transFat": 0.0,
+    "cholesterol": 0.0,
+    "sodium": 0.0,
+    "carbs": 14.8,
+    "sugar": 7.8,
+    "fiber": 2.6,
+    "potassium": 122.0,
+    "phosphorus": 12.0,
+    "protein": 0.3,
+    "tags": [
+      "fruit"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {},
+    "servingSizes": [
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "85g (3oz)",
+        "grams": 85
+      },
+      {
+        "description": "113g (4oz)",
+        "grams": 113
+      },
+      {
+        "description": "75g (small serving)",
+        "grams": 75
+      },
+      {
+        "description": "150g (large serving)",
+        "grams": 150
+      },
+      {
+        "description": "3oz",
+        "grams": 85
+      },
+      {
+        "description": "4oz",
+        "grams": 113
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA Foundation ● Fruits and Fruit Juices",
+    "phosphateEstimated": 0,
+    "displayFactor": 100.0,
     "selectedServing": null,
     "selectedServingGrams": null
   },
