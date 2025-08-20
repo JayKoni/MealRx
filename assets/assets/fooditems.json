@@ -7243,6 +7243,153 @@
   },
   {
     "category": "Serving",
+    "name": "1 pc ALMOND ROCA BUTTERCRUNCH TOFFEE WITH ALMONDS",
+    "calories": 556.0,
+    "fat": 38.9,
+    "satFat": 16.7,
+    "transFat": 0.0,
+    "cholesterol": 42.0,
+    "sodium": 139.0,
+    "carbs": 50.0,
+    "sugar": 44.4,
+    "fiber": 2.8,
+    "potassium": 236.0,
+    "phosphorus": 0.0,
+    "protein": 5.6,
+    "tags": [
+      "vegetarian",
+      "sweets"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {},
+    "servingSizes": [
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "3 pcs",
+        "grams": 36.0
+      },
+      {
+        "description": "Package",
+        "grams": 284.0
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA Branded ● Candy",
+    "phosphateEstimated": 0,
+    "displayFactor": 12.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Serving",
+    "name": "Beets, raw",
+    "calories": 41.0,
+    "fat": 0.3,
+    "satFat": 0.0,
+    "transFat": 0.0,
+    "cholesterol": 0.0,
+    "sodium": 112.0,
+    "carbs": 8.8,
+    "sugar": 5.1,
+    "fiber": 3.1,
+    "potassium": 342.0,
+    "phosphorus": 34.0,
+    "protein": 1.7,
+    "tags": [
+      "vegetable"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {},
+    "servingSizes": [
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "75g (small serving)",
+        "grams": 75
+      },
+      {
+        "description": "150g (large serving)",
+        "grams": 150
+      },
+      {
+        "description": "3oz",
+        "grams": 85
+      },
+      {
+        "description": "4oz",
+        "grams": 113
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA Foundation ● Vegetables and Vegetable Products",
+    "phosphateEstimated": 0,
+    "displayFactor": 100.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Serving",
+    "name": "Brussels sprouts, raw",
+    "calories": 48.8,
+    "fat": 0.6,
+    "satFat": 0.0,
+    "transFat": 0.0,
+    "cholesterol": 0.0,
+    "sodium": 26.0,
+    "carbs": 9.6,
+    "sugar": 0.0,
+    "fiber": 4.8,
+    "potassium": 477.0,
+    "phosphorus": 79.0,
+    "protein": 4.0,
+    "tags": [
+      "vegetable"
+    ],
+    "servingSize": "100",
+    "phosAdditives": false,
+    "modifiedValues": {},
+    "servingSizes": [
+      {
+        "description": "100 g",
+        "grams": 100
+      },
+      {
+        "description": "75g (small serving)",
+        "grams": 75
+      },
+      {
+        "description": "150g (large serving)",
+        "grams": 150
+      },
+      {
+        "description": "3oz",
+        "grams": 85
+      },
+      {
+        "description": "4oz",
+        "grams": 113
+      }
+    ],
+    "isPerServing": false,
+    "source": "USDA Foundation ● Vegetables and Vegetable Products",
+    "phosphateEstimated": 0,
+    "displayFactor": 100.0,
+    "selectedServing": null,
+    "selectedServingGrams": null
+  },
+  {
+    "category": "Serving",
     "name": "CHICKEN IN A BISKIT: ORIGINAL BAKED SNACK CRACKERS",
     "calories": 516.0,
     "fat": 25.8,
