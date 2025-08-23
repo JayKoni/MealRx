@@ -28394,7 +28394,7 @@ var $async$Ku=A.P(function(a,b){if(a===1)return A.Q(b,r)
 while(true)switch(s){case 0:j=t.j
 i=B.br
 s=3
-return A.N($.KW().au4("assets/fooditems.json"),$async$Ku)
+return A.N($.KW().au4("fooditems.json"),$async$Ku)
 case 3:o=j.a(i.Jb(0,b,null))
 n=J.ae(o)
 m=n.gA(o)
